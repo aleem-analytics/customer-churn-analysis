@@ -48,7 +48,9 @@ The dataset contains customer information including:
 - Customers on the Basic subscription plan show the highest churn levels  
 - Customers with shorter tenure are more likely to churn  
 - Premium customers generate the highest average revenue and are more stable  
-- Churn is evenly distributed across gender, indicating gender is not a major factor  
+- Churn is evenly distributed across gender, indicating gender is not a major factor
+
+-  ![Dashboard Preview](dashboard_preview.png)
 
 ---
 
