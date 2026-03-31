@@ -24,7 +24,7 @@ This project analyzes customer data to identify churn patterns and understand cu
 - Power BI Dashboard – Visual insights and reporting  
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard_preview_png)
+![Dashboard](dashboard_preview.png)
 
 ## 🚀 Outcome
 This project demonstrates the ability to analyze customer data, identify churn drivers, and generate insights that support business strategies for improving retention.
